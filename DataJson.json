@@ -1,0 +1,40 @@
+[{
+    "firstName": "Ailine",
+    "lastName": "Apollo",
+    "totalPrice": 10000,
+    "depositPaid": true,
+    "bookingdates": {
+        "checkin": "2023-01-01",
+        "checkout": "20124-01-01"
+    },
+    "additionalneeds": "Extra pillows please"
+},
+
+
+{
+    "firstName": "Mentor",
+    "lastName": "Lehner",
+    "totalPrice": 1755,
+    "deositPaid": true,
+     "bookingdates": {
+         "checkin": "2024-03-16",
+          "checkout": "2024-12-05"
+    },
+    "additionalneeds": "Breakfast"
+},
+
+
+{
+     "firstName": "Meijae",
+     "lastName": "Lehner",
+     "totalPrice": 155,
+     "depositPaid": true,
+     "bookingdates": {
+          "checkin": "2024-03-16",
+           "checkout": "2024-12-05"
+     },
+     "additionalneeds": "Breakfast"
+}
+
+
+]
