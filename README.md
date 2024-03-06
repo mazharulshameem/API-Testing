@@ -8,7 +8,7 @@ API testing validates the functionality, reliability, performance, and security 
 APIs serve as intermediaries enabling communication between software applications. Using a REST API, the testing process typically consists of five phases: creating bookings,
 retrieving booking details, updating bookings, generating authentication tokens, and deleting bookings.
   
-<h2>✨Features</h2>
+# ✨Features
 Here're some of the project's best features:
 
 * Auto Name Generate
@@ -20,7 +20,7 @@ Here're some of the project's best features:
 * Data Driven with JSON 
 * Summary Report
 
-<h2>🗂️ Project Screenshot:</h2>
+# 🗂️ Project Screenshot
 
 ## 1. Create Booking
 <img src="https://i.ibb.co/yPDk7K3/create-Booking.png" alt="project-screenshot" width="500" height="400/">
@@ -44,7 +44,7 @@ Here're some of the project's best features:
 <img src="https://i.ibb.co/D8fdjHS/verify-After-Delete.png" alt="project-screenshot" width="500" height="400/">
 
   
-<h2>🛠️Technologies: </h2>
+# 🛠️Technologies
 
 ✔️  Postman
 ✔️  Newman
